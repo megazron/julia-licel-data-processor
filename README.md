@@ -52,7 +52,7 @@ The processed data generates two plots for analysis:
 
 | Raw Data Representation | Converted Data Representation |
 |--------------------------|-------------------------------|
-| ![Raw Data Plot](path/to/output/raw_data_plot.png) | ![Converted Data Plot](path/to/output/converted_data_plot.png) |
+| ![Raw Data Plot](retrieved_data_plot.png) | ![Converted Data Plot](converted_data_plot.png) |
 
 ---
 
