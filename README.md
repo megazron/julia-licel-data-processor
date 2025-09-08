@@ -47,6 +47,12 @@ plot_converted_path = "path/to/output/converted_data_plot.png"
 - `converted_data.txt` → Converted data in LICEL format.
 - `raw_data_plot.png` → Plot of raw data.
 - `converted_data_plot.png` → Plot of converted data.
+- 
+The processed data generates two plots for analysis:
+
+| Raw Data Representation | Converted Data Representation |
+|--------------------------|-------------------------------|
+| ![Raw Data Plot](path/to/output/raw_data_plot.png) | ![Converted Data Plot](path/to/output/converted_data_plot.png) |
 
 ---
 
